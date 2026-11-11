@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/itsHarshDabas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Building+an+AI+Parliament+where+models+debate+%26+plan;Shipping+GraceOS+%E2%80%94+an+AI-native+Arch+distro;Local-first+LLMs%2C+RAG+%26+agent+runtimes;Neural+nets%2C+NLP+%26+computer+vision" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Building+an+AI+Parliament+where+models+debate+%26+plan;Shipped+Cloudspin+%E2%80%94+a+music+player+under+a+living+sky;Shipping+GraceOS+%E2%80%94+an+AI-native+Arch+distro;Local-first+LLMs%2C+RAG+%26+agent+runtimes;Neural+nets%2C+NLP+%26+computer+vision" alt="Typing intro" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ```ts
 const harsh = {
   role:        "AI / ML engineer & systems builder",
-  buildingNow: ["Cortex Council", "GraceOS", "Grace Candyland"],
+  buildingNow: ["Cortex Council", "GraceOS", "Grace Candyland", "Cloudspin"],
   obsessions:  ["multi-agent orchestration", "local-first AI", "Linux desktops"],
   toolbox:     ["Python", "TypeScript", "C++", "PyTorch", "FastAPI", "Qdrant", "PostgreSQL"],
   learning:    ["DSA in C++", "deeper ML theory", "QML / Qt"],
@@ -36,6 +36,20 @@ const harsh = {
 ## 🚀 What I'm building
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌦️ <a href="https://github.com/itsHarshDabas/Cloudspin">Cloudspin</a></h3>
+      <p>A <b>terminal music player under a living sky</b>. A record spins, your city's weather is written across the horizon, and the sky changes with the song: phonk brings a thunderstorm, lo-fi settles into evening, synthwave turns the stars on. Plays local files and links, on Linux, macOS and Windows.</p>
+      <p><code>pipx install cloudspin</code> &nbsp;·&nbsp; <code>npx cloudspin --demo</code></p>
+      <a href="https://github.com/itsHarshDabas/Cloudspin"><img src="https://raw.githubusercontent.com/itsHarshDabas/Cloudspin/main/docs/storm.png" alt="Cloudspin playing a phonk track under a thunderstorm" width="100%" /></a>
+      <br/>
+      <a href="https://pypi.org/project/cloudspin/"><img src="https://img.shields.io/pypi/v/cloudspin?style=flat-square&logo=pypi&logoColor=white&color=7f00ff" alt="PyPI" /></a>
+      <a href="https://www.npmjs.com/package/cloudspin"><img src="https://img.shields.io/npm/v/cloudspin?style=flat-square&logo=npm&color=CB3837" alt="npm" /></a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Textual-TUI-5a5fff?style=flat-square" />
+      <img src="https://img.shields.io/badge/mpv-691f69?style=flat-square&logo=mpv&logoColor=white" />
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/itsHarshDabas/Cortex-Council">Cortex Council</a></h3>
