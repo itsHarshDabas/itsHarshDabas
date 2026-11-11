@@ -40,7 +40,7 @@ const harsh = {
     <td colspan="2" valign="top">
       <h3>🌦️ <a href="https://github.com/itsHarshDabas/Cloudspin">Cloudspin</a></h3>
       <p>A <b>terminal music player under a living sky</b>. A record spins, your city's weather is written across the horizon, and the sky changes with the song: phonk brings a thunderstorm, lo-fi settles into evening, synthwave turns the stars on. Plays local files and links, on Linux, macOS and Windows.</p>
-      <p><code>pipx install cloudspin</code> &nbsp;·&nbsp; <code>npx cloudspin --demo</code></p>
+      <p><code>pipx install cloudspin</code> &nbsp;·&nbsp; <code>npx cloudspin --demo</code></p> &nbsp;·&nbsp; <code>npm install -g cloudspin</code></p>
       <a href="https://github.com/itsHarshDabas/Cloudspin"><img src="https://raw.githubusercontent.com/itsHarshDabas/Cloudspin/main/docs/storm.png" alt="Cloudspin playing a phonk track under a thunderstorm" width="100%" /></a>
       <br/>
       <a href="https://pypi.org/project/cloudspin/"><img src="https://img.shields.io/pypi/v/cloudspin?style=flat-square&logo=pypi&logoColor=white&color=7f00ff" alt="PyPI" /></a>
