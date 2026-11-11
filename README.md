@@ -132,14 +132,13 @@ const harsh = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsHarshDabas&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHarshDabas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img width="100%" src="https://raw.githubusercontent.com/itsHarshDabas/itsHarshDabas/output/profile-night-rainbow.svg" alt="A year of contributions as a 3D skyline, with languages and totals" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=itsHarshDabas&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsHarshDabas&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/itsHarshDabas/itsHarshDabas/output/snake.svg" alt="A snake eating my contribution graph" />
 </p>
 
 ---
