@@ -5,11 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/itsHarshDabas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Building+an+AI+Parliament+where+models+debate+%26+plan;Shipped+Cloudspin+%E2%80%94+a+music+player+under+a+living+sky;Shipping+GraceOS+%E2%80%94+an+AI-native+Arch+distro;Local-first+LLMs%2C+RAG+%26+agent+runtimes;Neural+nets%2C+NLP+%26+computer+vision" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=640&lines=Building+LearnOS+%E2%80%94+a+study+workspace+for+friends;Running+many+AI+agents+at+once+with+QuantaFlow;Shipping+GraceOS+%E2%80%94+an+AI-native+Arch+distro;ACI+Engine+%E2%80%94+a+game+engine+made+of+characters;Shipped+Cloudspin+%E2%80%94+a+music+player+under+a+living+sky;Local-first+LLMs%2C+RAG+%26+agent+runtimes" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://harshdabas.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-harshdabas.is--a.dev-12a294?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/harsh-dabas-89742b381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_not.too.harsh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:harshdabas1314@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -23,8 +24,8 @@
 ```ts
 const harsh = {
   role:        "AI / ML engineer & systems builder",
-  buildingNow: ["Cortex Council", "GraceOS", "Grace Candyland", "Cloudspin"],
-  obsessions:  ["multi-agent orchestration", "local-first AI", "Linux desktops"],
+  buildingNow: ["LearnOS", "GraceOS", "QuantaFlow", "ACI Engine", "Project X"],
+  obsessions:  ["multi-agent orchestration", "local-first AI", "Linux desktops", "game engines"],
   toolbox:     ["Python", "TypeScript", "C++", "PyTorch", "FastAPI", "Qdrant", "PostgreSQL"],
   learning:    ["DSA in C++", "deeper ML theory", "QML / Qt"],
   vibe:        "if it runs locally and respects privacy, I'm interested",
@@ -80,7 +81,49 @@ const harsh = {
       <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/itsHarshDabas/QuantaFlow">QuantaFlow</a></h3>
+      <p>A <b>local control room for AI agents</b>. Define an agent once, hand it jobs and run many in parallel across Claude Code, Codex, OpenCode, Gemini CLI and Kilo Code, each in its own workspace with risky actions gated.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/ACP-12a294?style=flat-square" />
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/itsHarshDabas/aci-engine">ACI Engine</a></h3>
+      <p>A <b>game engine where everything on screen is a character in a grid</b>. Browser editor with scene view, inspector, tile + sprite painters and an animation timeline, and AI agents that build alongside you.</p>
+      <p><code>npx aci-engine</code></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/zero_deps-1b2124?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦎 <a href="https://github.com/itsHarshDabas/HearthLight">HearthLight</a></h3>
+      <p><b>Your own AI, running at home.</b> A local gateway that turns LM Studio + ComfyUI on your PC into one authenticated, OpenAI-compatible API, plus an Android chat app to use it from anywhere.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎲 <a href="https://github.com/itsHarshDabas/RuneBorne">RuneBorne</a> · 🛡️ <a href="https://github.com/itsHarshDabas/Agentic-Security-Skill">Agentic Security Skill</a></h3>
+      <p><b>RuneBorne</b> is a free all-in-one D&amp;D 2024 table toolkit (<a href="https://runeborne.vercel.app">play it</a>). <b>Agentic Security Skill</b> audits a repo with real security tools through a scope-enforcing engine and writes honest reports.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Claude_Code_plugin-D97757?style=flat-square" />
+    </td>
+  </tr>
 </table>
+
+### 🔒 Private builds
+
+Not public (yet), but very real. Happy to give a walkthrough.
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **LearnOS** | Invite-only learning workspace for friends: notes, document study, quizzes, spaced repetition, planner, optional AI | FastAPI · React · Expo · Supabase |
+| **Project X** | Story RPG for the terminal and browser: a 13-area city, turn-based battles, cooking, procedural music, pixel art drawn in code | Python · Textual |
+| **Faculty Inspection System V** | Face-recognition attendance with a burst-capture → quality-gate → GPU pipeline and live WebSocket events | FastAPI · React 19 · PostgreSQL |
+| **ShopSphere** | E-commerce + inventory API with atomic stock, JWT rotation, RBAC and Socket.IO events (team capstone) | Node · Express · MongoDB |
+| **KcalPro** | Android calorie + macro tracker: type or snap a meal, AI estimates it, data stays on the phone | React Native · Expo |
 
 ### 🧪 More from the lab
 
