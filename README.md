@@ -24,7 +24,7 @@
 ```ts
 const harsh = {
   role:        "AI / ML engineer & systems builder",
-  buildingNow: ["LearnOS", "GraceOS", "QuantaFlow", "ACI Engine", "Project X"],
+  buildingNow: ["LearnOS", "GraceOS", "QuantaFlow", "ACI Engine"],
   obsessions:  ["multi-agent orchestration", "local-first AI", "Linux desktops", "game engines"],
   toolbox:     ["Python", "TypeScript", "C++", "PyTorch", "FastAPI", "Qdrant", "PostgreSQL"],
   learning:    ["DSA in C++", "deeper ML theory", "QML / Qt"],
