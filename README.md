@@ -75,7 +75,7 @@ const harsh = {
       <img src="https://img.shields.io/badge/Quickshell-e100ff?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🍒 <a href="https://github.com/itsHarshDabas/CherrySoda">CherrySoda</a> · 🍬 <a href="https://github.com/itsHarshDabas/CottonCandy-Browser">CottonCandy</a></h3>
+      <h3>🍒 <a href="https://github.com/itsHarshDabas/CherryCola">CherryCola</a> · 🍬 <a href="https://github.com/itsHarshDabas/CottonCandy-Browser">CottonCandy</a></h3>
       <p><b>CherrySoda</b> is the local-model agent runtime for GraceOS (Ollama or LM Studio). <b>CottonCandy</b> is its Chromium-based browser, built on Qt 6 + QtWebEngine via PySide6.</p>
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
       <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white" />
