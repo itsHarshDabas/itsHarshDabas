@@ -39,16 +39,20 @@ const harsh = {
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🌦️ <a href="https://github.com/itsHarshDabas/Cloudspin">Cloudspin</a></h3>
-      <p>A <b>terminal music player under a living sky</b>. A record spins, your city's weather is written across the horizon, and the sky changes with the song: phonk brings a thunderstorm, lo-fi settles into evening, synthwave turns the stars on. Plays local files and links, on Linux, macOS and Windows.</p>
-      <p><code>pipx install cloudspin</code> &nbsp;·&nbsp; <code>npx cloudspin --demo</code></p> &nbsp;·&nbsp; <code>npm install -g cloudspin</code></p>
-      <a href="https://github.com/itsHarshDabas/Cloudspin"><img src="https://raw.githubusercontent.com/itsHarshDabas/Cloudspin/main/docs/storm.png" alt="Cloudspin playing a phonk track under a thunderstorm" width="100%" /></a>
+      <h3>🐧 <a href="https://github.com/itsHarshDabas/GraceOS">GraceOS</a></h3>
+      <p>An <b>Arch-based, AI-native OS</b> for AI/ML developers. It boots into <b>Grace Candyland</b>, its own desktop built on Hyprland and Quickshell, with <b>Ask Grace</b> (a local AI you can ask from the bar) and <b>Grace Settings</b> built in. It ships with its own apps: the <b>CherryCola</b> local LLM runtime, the <b>CottonCandy</b> browser, the <b>ToffeeTwirl</b> IDE with Grace Agents, and the <b>CandySole</b> terminal.</p>
+      <p><a href="https://github.com/itsHarshDabas/GraceOS/releases/latest">Download the ISO</a> &nbsp;·&nbsp; or install <a href="https://github.com/itsHarshDabas/grace-candyland">Grace Candyland</a> on the Arch system you already have</p>
+      <a href="https://github.com/itsHarshDabas/GraceOS"><img src="https://raw.githubusercontent.com/itsHarshDabas/GraceOS/main/docs/screenshots/graceos-desktop.png" alt="The Grace Candyland desktop on GraceOS" width="100%" /></a>
       <br/>
-      <a href="https://pypi.org/project/cloudspin/"><img src="https://img.shields.io/pypi/v/cloudspin?style=flat-square&logo=pypi&logoColor=white&color=7f00ff" alt="PyPI" /></a>
-      <a href="https://www.npmjs.com/package/cloudspin"><img src="https://img.shields.io/npm/v/cloudspin?style=flat-square&logo=npm&color=CB3837" alt="npm" /></a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Textual-TUI-5a5fff?style=flat-square" />
-      <img src="https://img.shields.io/badge/mpv-691f69?style=flat-square&logo=mpv&logoColor=white" />
+      <a href="https://github.com/itsHarshDabas/CottonCandy-Browser"><img src="https://raw.githubusercontent.com/itsHarshDabas/GraceOS/main/docs/screenshots/cottoncandy.png" alt="CottonCandy browser" width="32%" /></a>
+      <a href="https://github.com/itsHarshDabas/grace-candyland"><img src="https://raw.githubusercontent.com/itsHarshDabas/GraceOS/main/docs/screenshots/candysole.png" alt="CandySole terminal" width="32%" /></a>
+      <a href="https://github.com/itsHarshDabas/ToffeeTwirl-IDE"><img src="https://raw.githubusercontent.com/itsHarshDabas/GraceOS/main/docs/screenshots/toffeetwirl.png" alt="ToffeeTwirl IDE" width="32%" /></a>
+      <br/>
+      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" />
+      <img src="https://img.shields.io/badge/Quickshell-e100ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/local_AI-2ea44f?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -60,11 +64,11 @@ const harsh = {
       <img src="https://img.shields.io/badge/local--first-2ea44f?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🐧 <a href="https://github.com/itsHarshDabas/GraceOS">GraceOS</a></h3>
-      <p>An <b>Arch-based, AI-native Linux distro</b> for AI/ML developers. GNOME × Hyprland, with its own desktop shell, browser and local agent runtime baked in.</p>
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" />
+      <h3>🌦️ <a href="https://github.com/itsHarshDabas/Cloudspin">Cloudspin</a></h3>
+      <p>A <b>terminal music player under a living sky</b>. The sky changes with the song, and your city's weather is written across the horizon.</p>
+      <p><code>pipx install cloudspin</code> &nbsp;·&nbsp; <code>npx cloudspin --demo</code></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Textual-TUI-5a5fff?style=flat-square" />
     </td>
   </tr>
   <tr>
